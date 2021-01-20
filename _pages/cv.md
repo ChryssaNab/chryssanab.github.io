@@ -1,59 +1,45 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
 
+
+A full version is available <a href="https://chryssanab.github.io/files/cv.pdf" target="_blank" >here</a>.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Management Science and Technology at Athens University of Economics and Business (2015-2020)
+* Anavryta Experimental Lyceum (2012-2015)
+
+
+Research experience
+======
+* Research on the topic of "Customer churn management using machine learning techniques"
+ * Batchelor's thesis under supervision of Prof. Emmanouil E. Zachariadis in collaboration with Vodafone Greece
+ 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Data Scientist, Vodafone Greece, Greece (Nov. 2019 - July 2020)
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, Java, C, R
+* Web development: HTML, CSS, JavaScript, JSP
+* Machine Learning Frameworks & Libraries: TensorFlow, Keras, Scikit-learn
+* Big Data Management Systems: RDBMS (MySQL), Hadoop, Redis, Neo4j, Azure Stream Analytics
+* Business Analytics tools & platforms: Power BI, RapidMiner Studio, QGIS, CARTO
 
-Publications
+Honor & Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Kaggle Competition, 3rd place in the "The case of flight passengers prediction" competition (top 6%) 
+* L’Oréal Brandstorm 2019, 2nd place in the national finals of the international competition of marketing and
+innovation
+
