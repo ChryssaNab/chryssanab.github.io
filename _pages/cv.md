@@ -14,14 +14,17 @@ A full version is available <a href="https://chryssanab.github.io/files/cv.pdf" 
 
 Education
 ======
-* B.Sc. in Management Science and Technology at Athens University of Economics and Business (2015-2020)
-* Anavryta Experimental Lyceum (2012-2015)
+* BSc in Management Science and Technology at Athens University of Economics and Business (2015 - 2020)
+* Anavryta Experimental Lyceum (2012 - 2015)
 
 
 Research experience
 ======
+
 * Research on the topic of "Customer churn management using machine learning techniques"
- * Batchelor's thesis under supervision of Prof. Emmanouil E. Zachariadis in collaboration with Vodafone Greece
+
+  Batchelor's thesis under supervision of Prof. Emmanouil E. Zachariadis in collaboration with Vodafone Greece
+
  
 
 Work experience
@@ -37,7 +40,7 @@ Skills
 * Big Data Management Systems: RDBMS (MySQL), Hadoop, Redis, Neo4j, Azure Stream Analytics
 * Business Analytics tools & platforms: Power BI, RapidMiner Studio, QGIS, CARTO
 
-Honor & Awards
+Honour & Awards
 ======
 * Kaggle Competition, 3rd place in the "The case of flight passengers prediction" competition (top 6%) 
 * L’Oréal Brandstorm 2019, 2nd place in the national finals of the international competition of marketing and
