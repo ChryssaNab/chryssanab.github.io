@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-A full version is available <a href="https://chryssanab.github.io/files/cv.pdf" target="_blank" >here</a>.
+A full version is available <a href="https://chryssanab.github.io/files/ChryssaNampouri_CV.pdf" target="_blank" >here</a>.
 
 Education
 ======
