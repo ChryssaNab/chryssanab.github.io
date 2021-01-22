@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chryssa Nampouri"
 title_separator          : "-"
 name                     : &name "Chryssa Nampouri"
-description              : &description "Junior Data Scientist, Management Science and Technology Graduate, Athens University of Economics and Bysiness"
+description              : &description "BSc Management Science and Technology, Athens University of Economics and Business, Greece"
 url                      : https://chryssanab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChryssaNab/chryssanab.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Chryssa Nampouri"
   avatar           : "avatar.jpeg"
-  bio              : "Junior Data Scientist, Management Science and Technology Graduate, Athens University of Economics and Bysiness"
+  bio              : "BSc Management Science and Technology, Athens University of Economics and Business, Greece"
   location         : "Athens, Greece"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

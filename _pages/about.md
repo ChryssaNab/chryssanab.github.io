@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I have graduated from Athens University of Economics and Business (AUEB) the Department of Management Science and Technology. My research interests lie in the areas of Machine Learning and Computer Vision. 
+I hold a BSc in Management Science and Technology from the Athens University of Economics and Business, Greece. My research interests lie in the areas of Machine Learning and Computer Vision. 
