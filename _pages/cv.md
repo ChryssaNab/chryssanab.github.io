@@ -14,8 +14,8 @@ A full version is available <a href="https://chryssanab.github.io/files/ChryssaN
 
 Education
 ======
-* BSc in Management Science and Technology at Athens University of Economics and Business (2015 - 2020)
-* Anavryta Experimental Lyceum (2012 - 2015)
+* BSc in Management Science and Technology at Athens University of Economics and Business (2015 – 2020)
+* Anavryta Experimental Lyceum (2012 – 2015)
 
 
 Research experience
@@ -23,13 +23,13 @@ Research experience
 
 * Research on the topic of "Customer churn management using machine learning techniques"
 
-  Batchelor's thesis under supervision of Prof. Emmanouil E. Zachariadis in collaboration with Vodafone Greece
+  Bachelor's thesis under supervision of Prof. Emmanouil E. Zachariadis in collaboration with Vodafone Greece
 
  
 
 Work experience
 ======
-* Data Scientist, Vodafone Greece, Greece (Nov. 2019 - July 2020)
+* Data Scientist, Vodafone Greece, Greece (Nov. 2019 – July 2020)
   
   
 Skills
@@ -38,7 +38,7 @@ Skills
 * Web development: HTML, CSS, JavaScript, JSP
 * Machine Learning Frameworks & Libraries: TensorFlow, Keras, Scikit-learn
 * Big Data Management Systems: RDBMS (MySQL), Hadoop, Redis, Neo4j, Azure Stream Analytics
-* Business Analytics tools & platforms: Power BI, RapidMiner Studio, QGIS, CARTO
+* Business Analytics tools & platforms: Power BI, RapidMiner Studio, QGIS
 
 Honour & Awards
 ======
