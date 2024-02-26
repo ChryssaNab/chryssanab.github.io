@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Deep Learning Engineer>
+    <p> Deep Learning Engineer</p>
     <p>Groningen, Netherlands</p>
 
 news: false # includes a list of news items
