@@ -9,7 +9,8 @@
       "postalCode": "9746TN",
       "city": "Groningen",
       "region": "Netherlands"
-    },
+    }
+  },
   "work": [
     {
       "name": "University Medical Center Groningen (UMCG)",
@@ -17,7 +18,7 @@
       "url": "https://www.umcg.nl/",
       "startDate": "2023-03-16",
       "endDate": "2023-08-31",
-      "summary": "Worked on self‑supervised learning methods for 3D medical image analysis using deep neural networks.",
+      "summary": "Worked on self-supervised learning methods for 3D medical image analysis using deep neural networks.",
       "highlights": ["Medical image analysis", "Python", "PyTorch", "MONAI"]
     },
     {
@@ -36,7 +37,7 @@
       "startDate": "2019-11",
       "endDate": "2020-07",
       "summary": "Designed and deployed propensity machine learning models to optimize the customer journey experience",
-      "highlights": ["Python", "Tensorflow", "Scikit‑learn", "PySpark", "QGIS"]
+      "highlights": ["Python", "Tensorflow", "Scikit-learn", "PySpark", "QGIS"]
     }
   ],
   "education": [
@@ -60,8 +61,7 @@
       "startDate": "2015-10-01",
       "endDate": "2020-01-31",
       "score": "8.1/10.0",
-      "courses": ["Programming", "Stochastic Modeling & Simulation", "Business Intelligence and Big Data Analytics", "Combinatorial Optimization", "Business Analytics & Personalization Technologies",
-        "Big Data Management Systems", "Machine Learning", "Algorithms and Data Structures"]
+      "courses": ["Programming", "Stochastic Modeling & Simulation", "Business Intelligence and Big Data Analytics", "Combinatorial Optimization", "Business Analytics & Personalization Technologies", "Big Data Management Systems", "Machine Learning", "Algorithms and Data Structures"]
     }
   ],
   "languages": [
