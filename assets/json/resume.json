@@ -16,8 +16,8 @@
       "name": "University Medical Center Groningen (UMCG)",
       "position": "Radiation Oncology Intern",
       "url": "https://www.umcg.nl/",
-      "startDate": "03-2023",
-      "endDate": "08-2023",
+      "startDate": "2023-03",
+      "endDate": "2023-08",
       "summary": "Worked on self-supervised learning methods for 3D medical image analysis using deep neural networks.",
       "highlights": ["Medical image analysis", "Python", "PyTorch", "MONAI"]
     },
@@ -34,8 +34,8 @@
       "name": "Vodafone Greece",
       "position": "Data Scientist, Vodafone Analytics Team",
       "url": "https://www.vodafone.gr/",
-      "startDate": "11-2019",
-      "endDate": "07-2020",
+      "startDate": "2019-11",
+      "endDate": "2020-07",
       "summary": "Designed and deployed propensity machine learning models to optimize the customer journey experience.",
       "highlights": ["Python", "TensorFlow", "Scikit-learn", "PySpark", "QGIS"]
     }
@@ -47,8 +47,8 @@
       "url": "https://www.rug.nl/",
       "area": "Computing Science | Intelligent Systems and Visual Computing",
       "studyType": "MSc",
-      "startDate": "09-2021",
-      "endDate": "08-2023",
+      "startDate": "2021-09",
+      "endDate": "2023-08",
       "score": "8.0/10.0",
       "courses": ["Deep Learning", "Neural Networks", "Pattern Recognition", "Image Processing", "Computer Vision", "Scientific Visualization", "Computer Graphics"]
     },
@@ -58,8 +58,8 @@
       "url": "https://www.aueb.gr/en",
       "area": "Management Science and Technology | Operations Research and Business Analytics",
       "studyType": "BSc",
-      "startDate": "10-2015",
-      "endDate": "01-2020",
+      "startDate": "2015-10",
+      "endDate": "2020-01",
       "score": "8.1/10.0",
       "courses": ["Programming", "Algorithms and Data Structures", "Stochastic Modeling and Simulation", "Combinatorial Optimization", "Business Intelligence and Big Data Analytics", "Business Analytics and Personalization Technologies", "Big Data Management Systems", "Data Mining", "Machine Learning"]
     }
