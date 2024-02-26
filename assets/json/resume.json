@@ -1,5 +1,5 @@
 {
-  "Personal Info": {
+  "Personal info": {
     "name": "Chryssa M. Nampouri",
     "profession": "Deep Learning Engineer",
     "image": "",
@@ -43,7 +43,7 @@
   "education": [
     {
       "institution": "University of Groningen, Groningen, Netherlands",
-      "location": "Groningen, \n the Netherlands",
+      "location": "Groningen, \n Netherlands",
       "url": "https://www.rug.nl/",
       "area": "Computing Science | Intelligent Systems and Visual Computing",
       "studyType": "MSc",
