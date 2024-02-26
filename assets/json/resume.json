@@ -43,18 +43,18 @@
   "education": [
     {
       "institution": "University of Groningen, Groningen, Netherlands",
-      "location": "the Netherlands",
+      "location": "Groningen, \n the Netherlands",
       "url": "https://www.rug.nl/",
       "area": "Computing Science | Intelligent Systems and Visual Computing",
       "studyType": "MSc",
       "startDate": "2021-09",
       "endDate": "2023-08",
       "score": "8.0/10.0",
-      "courses": ["Deep Learning", "Neural Networks", "Pattern Recognition", "Image Processing", "Computer Vision", "Scientific Visualization", "Computer Graphics"]
+      "courses": ["Neural Networks", "Deep Learning", "Image Processing", "Computer Vision", "Pattern Recognition", "Scientific Visualization", "Computer Graphics"]
     },
     {
       "institution": "Athens University of Economics and Business, Athens, Greece",
-      "location": "Greece",
+      "location": "Athens, \n Greece",
       "url": "https://www.aueb.gr/en",
       "area": "Management Science and Technology | Operations Research and Business Analytics",
       "studyType": "BSc",
