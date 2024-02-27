@@ -61,7 +61,7 @@
       "startDate": "2015-10",
       "endDate": "2020-01",
       "score": "8.1/10.0",
-      "courses": ["functional programming", "Object-oriented programming", "Algorithms and Data Structures", "Stochastic Modeling and Simulation", "Combinatorial Optimization", "Business Intelligence and Big Data Analytics", "Business Analytics and Personalization Technologies", "Big Data Management Systems", "Data Mining", "Machine Learning"]
+      "courses": ["Functional programming", "Object-oriented programming", "Algorithms and Data Structures", "Stochastic Modeling and Simulation", "Combinatorial Optimization", "Business Intelligence and Big Data Analytics", "Business Analytics and Personalization Technologies", "Big Data Management Systems", "Data Mining", "Machine Learning"]
     }
   ],
   "languages": [
