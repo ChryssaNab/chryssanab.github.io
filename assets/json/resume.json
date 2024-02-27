@@ -50,7 +50,7 @@
       "startDate": "2021-09",
       "endDate": "2023-08",
       "score": "8.0/10.0",
-      "courses": ["Neural Networks", "Deep Learning", "Image Processing", "Computer Vision", "Pattern Recognition", "Scientific Visualization", "Computer Graphics"]
+      "courses": ["Machine Learning", "Neural Networks", "Deep Learning", "Image Processing", "Computer Vision", "Pattern Recognition", "Scientific Visualization", "Advanced Computer Graphics"]
     },
     {
       "institution": "Athens University of Economics and Business, Athens, Greece",
