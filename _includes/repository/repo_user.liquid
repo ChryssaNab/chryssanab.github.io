@@ -6,10 +6,14 @@
       src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme=radical&show_icons=true"
     >
     <img
+      class="repo-img-light w-100"
+      alt="{{ include.username }}"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=chryssanab&theme=radical&show_icons=true&hide=HTML,Javascript&layout=compact"
+    >
+    <img
       class="repo-img-dark w-100"
       alt="{{ include.username }}"
       src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&show_icons=true"
     >
   </a>
-  <a href="https://github.com/{{ include.username }}"><img class="repo-img-light w-100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chryssanab&theme=radical&show_icons=true&hide=HTML,Javascript&layout=compact" alt="{{ include.username }}" style="height:90%" /></a>
 </div>
