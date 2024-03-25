@@ -2,7 +2,9 @@ github_users:
   - ChryssaNab
 
 github_repos:
+  - ChryssaNab/Handwriting-Recognition
+  - ChryssaNab/Image-Colorization
+  - ChryssaNab/ECG-Heartbeat-Classification
   - ChryssaNab/Machine_Learning-AUEB 
   - ChryssaNab/BDMS-AUEB
-  - ChryssaNab/Data_Mining-AUEB
-  - ChryssaNab/Deep_Learning-RUG
+  - ChryssaNab/Flight-Passengers-Prediction
